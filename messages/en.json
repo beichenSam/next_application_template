@@ -4,7 +4,7 @@
         "desc": "A full-stack, out-of-the-box, multi-page template developed based on NextJS 14.0+ and antd5.0"
     },
     "global":{
-        "text": "english"
+        "welcome": "welcome"
     },
     "About": {
       "title": "About us"

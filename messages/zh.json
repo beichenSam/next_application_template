@@ -4,7 +4,7 @@
         "desc": "一款基于NextJS 14.0+ 和 antd5.0 开发的页面模板"
     },
     "global":{
-        "text": "中文"
+        "welcome": "欢迎"
     },
     "About": {
       "title": "关于我们"
