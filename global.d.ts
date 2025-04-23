@@ -1,1 +1,7 @@
-declare module '*.less';
+declare module "*.less";
+
+declare global {
+  var mongoose: any; // This must be a `var` and not a `let / const`
+}
+
+export {};
